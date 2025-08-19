@@ -26,4 +26,4 @@
 <!--<br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{critsxy}/count.svg)
 -->
-⭐ From [sanchitvj](https://github.com/critsxy)
+⭐ From [Ashura](https://github.com/critsxy)

@@ -20,7 +20,7 @@
 <a href="https://www.kaggle.com/sanchitvj"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32px" height="32px"></a>
 -->
 
-<a href="https://mobile.twitter.com/critsxy"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a>|
+<a href="https://mobile.twitter.com/critsxy"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" _blank width="32px" height="32px"></a>
   
 
 <br>**Visitors Count**  

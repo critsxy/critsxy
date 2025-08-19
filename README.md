@@ -24,6 +24,6 @@
   
 
 <br>**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{critsxy}/count.svg)
 
 ⭐ From [sanchitvj](https://github.com/critsxy)

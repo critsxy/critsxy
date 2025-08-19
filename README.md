@@ -26,4 +26,4 @@
 <!--<br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{critsxy}/count.svg)
 -->
-⭐️ From [username](https://github.com/[critsxy])
+⭐️ From [critsxy](https://github.com/[critsxy])

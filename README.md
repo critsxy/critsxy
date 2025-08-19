@@ -23,7 +23,7 @@
 <a href="https://mobile.twitter.com/critsxy"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" _blank width="32px" height="32px"></a>
   
 
-<br>**Visitors Count**  
+<!--<br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{critsxy}/count.svg)
-
+-->
 ⭐ From [sanchitvj](https://github.com/critsxy)
